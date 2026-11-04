@@ -80,3 +80,7 @@ figcaption {
     font-style: italic;
     margin-top: 4px;
 }
+
+figure {
+    background-color: greenyellow;
+}
