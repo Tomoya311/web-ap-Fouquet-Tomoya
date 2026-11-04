@@ -122,8 +122,10 @@ textarea:focus {
 
 input:valid {
     border-color: seagreen;
+    background-color: yellow;
 }
 
 input:invalid {
     border-color: crimson;
+    background-color: lightpink;
 }
